@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Sharma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack engineer and an OpenSource enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif">
 - 🌱 I’m currently learning **Golang**
 
